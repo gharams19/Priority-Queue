@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/priorityqueue2.dir/main.cpp.o CMakeFiles/priorityqueue2.dir/priorityqueue.cpp.o  -o priorityqueue2 
